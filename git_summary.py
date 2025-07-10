@@ -62,3 +62,17 @@
 
 # remote url 설정하는법
 # git remote add origin <원격 저장소 URL>
+
+
+# clone copy 하는 법
+# git clone <원격 저장소 URL> clone-test(폴더 이름)
+
+# 원격 저장소 URL 변경하는 방법
+# git remote set-url origi n <새로운 원격 저장소 URL> 
+
+# 브랜치 수동으로 remote 설정하는 방법
+# git branch --set-upstream-to=origin/<원격 브랜치 이름> <로컬 브랜치 이름>
+
+# 브랜치 생성하고 원격 브랜치와 연결하는 방법
+# git switch -c <브랜치 이름> --track origin/<원격 브랜치 이름>
+
