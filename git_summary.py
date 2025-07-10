@@ -59,3 +59,6 @@
 
 # 작업단위 : 브랜치 and 브랜치
 # 브랜치 단위로 작업을 진행하고, 작업이 완료되면 병합하는 방식
+
+# remote url 설정하는법
+# git remote add origin <원격 저장소 URL>
