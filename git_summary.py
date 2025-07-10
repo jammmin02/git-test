@@ -74,10 +74,7 @@
 # git branch --set-upstream-to=origin/<원격 브랜치 이름> <로컬 브랜치 이름>
 
 # 브랜치 생성하고 원격 브랜치와 연결하는 방법
-# git switch -c <브랜치 이름> --track origin/<원격 브랜치 이름>
+# git switch -c <로컬 브랜치 이름> --track origin/<원격 브랜치 이름>
 
 # git push 
 # git push origin <브랜치 이름> 
-
-# remote tracking branch 설정하는 방법
-# git branch --set-upstream-to=origin/<원격 브랜치 이름> <로컬 브랜치 이름>
